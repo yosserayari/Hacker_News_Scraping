@@ -1,3 +1,6 @@
 Title,URL
-Let's Buy Spirit Air (letsbuyspiritair.com),https://letsbuyspiritair.com/
-OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors (theguardian.com),https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses
+How OpenAI delivers low-latency voice AI at scale (openai.com),https://openai.com/index/delivering-low-latency-voice-ai-at-scale/
+CVE-2026-31431: Copy Fail vs. rootless containers (dragonsreach.it),https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/
+Train Your Own LLM from Scratch (github.com/angelos-p),https://github.com/angelos-p/llm-from-scratch
+Google Chrome silently installs a 4 GB AI model on your device without consent (thatprivacyguy.com),https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/
+Securing a DoD contractor: Finding a multi-tenant authorization vulnerability (strix.ai),https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup
